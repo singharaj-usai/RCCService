@@ -11,3 +11,4 @@ Its a gameserver service from [roblox](https://www.roblox.com) to let you render
 3. change appsettings.xml baseurl to your domain, then patch it! Now profit!
 4. I included the gameserver.txt file that we used, do not modify this file unless you know what you are doing
 5. now use git bash or powershell in the RCCService folder and type `rccservice.exe -console -verbose` to start the service on your local computer.
+6. also download soapui roblox edition from here, you need this if you want to make an avatar without doing setups: [https://www.mediafire.com/file/us37e18tl30njc9/SoapUI.exe/file](https://www.mediafire.com/file/us37e18tl30njc9/SoapUI.exe/file)
